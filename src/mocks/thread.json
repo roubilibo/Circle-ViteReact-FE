@@ -1,0 +1,35 @@
+[
+	{
+		"id": 1,
+		"author_picture": "image.png",
+		"author_name": "rebecca eltra",
+		"posted_at": "4h",
+		"content": "pernahkah kamu merasa se gila ini",
+		"image": "image.png",
+		"likes_count": "10",
+		"replies_count": "5",
+		"is_liked": false
+	},
+	{
+		"id": 2,
+		"author_picture": "image.png",
+		"author_name": "teria ananda",
+		"posted_at": "5h",
+		"content": "pernahkah kamu merasa se bahagia ini",
+		"image": "image.png",
+		"likes_count": "60",
+		"replies_count": "5",
+		"is_liked": true
+	},
+	{
+		"id": 3,
+		"author_picture": "image.png",
+		"author_name": "kim jihyo",
+		"posted_at": "6h",
+		"content": "pernahkah kamu merasa se gila ini",
+		"image": "image.png",
+		"likes_count": "70",
+		"replies_count": "5",
+		"is_liked": false
+	}
+]
